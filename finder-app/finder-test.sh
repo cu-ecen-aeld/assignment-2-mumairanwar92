@@ -5,7 +5,7 @@ set -e
 # Variables
 WRITER_SRC="writer.c"
 WRITER_EXEC="writer"
-WRITEFILE="../assignments/assignment2/writeFileResult.txt"
+WRITEFILE="/tmp/aeld-data/mumairanwar92_assign2.txt"
 WRITESTR="Test String"
 
 # Clean any previous build artifacts
